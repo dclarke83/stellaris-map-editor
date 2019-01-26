@@ -1,3 +1,9 @@
+# Stellaris Map Editor
+
+This is my first react app. The goal of this app is to be able to interactively create maps for Stellaris, so that you can see where the star systems are, assign initialisers, etc. - and to also be able to export the coordinates out for use in Stellaris mods.
+
+Standard create-react-app stuff follows.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
